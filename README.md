@@ -26,9 +26,9 @@ In essence, the EightPuzzle class acts as a container for all pertinent informat
 4. EightPuzzleSolver.java
    The EightPuzzleSolver class is the core of the puzzle-solving logic. It consolidates methods for various puzzle operations, including printing the puzzle grid, generating a random puzzle, checking its solvability, and implementing the A* search algorithm with heuristics. This class encapsulates the essential functionalities required to solve the 8-puzzle problem efficiently.
 
-<img src="InitialState.png" alt="Initial State of The Puzzle" style=" width: 100px;">
+<img src="InitialState.png" alt="Initial State of The Puzzle" style=" width: 250px;">
 
-<img src="FinalState.png" alt="Final State of The Puzzle" style=" width: 100px;">
+<img src="FinalState.png" alt="Final State of The Puzzle" style=" width: 250px;">
 
-<img src="Solutions.png" alt="Solutions of The Puzzle" style=" width: 100px;">
+<img src="Solutions.png" alt="Solutions of The Puzzle" style=" width: 250px;">
 
