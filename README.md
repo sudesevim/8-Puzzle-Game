@@ -23,5 +23,11 @@ used the StdDraw library for graphical visualization. Here are the classes I use
    The EightPuzzle class serves as a representation of the puzzle state within the 8 puzzle problem. It encapsulates crucial attributes such as the puzzle board configuration, the cost incurred from the start state (denoted as "g"), the heuristic value (denoted as "h"), the total cost (denoted as "f"), and the sequence of moves made to reach the current state. This class offers getter methods to access the puzzle board, total cost, and moves, facilitating access to these essential properties for further analysis or manipulation.
 In essence, the EightPuzzle class acts as a container for all pertinent information related to a specific state of the puzzle. By encapsulating these attributes and providing access methods, it enables efficient management and retrieval of puzzle state data, contributing to the overall functionality and flexibility of the 8 puzzle-solving process.
 
-5. EightPuzzleSolver.java
+4. EightPuzzleSolver.java
    The EightPuzzleSolver class is the core of the puzzle-solving logic. It consolidates methods for various puzzle operations, including printing the puzzle grid, generating a random puzzle, checking its solvability, and implementing the A* search algorithm with heuristics. This class encapsulates the essential functionalities required to solve the 8-puzzle problem efficiently.
+
+![Solutions](Solutions.png)
+![Initial State of the Puzzle](InitialState.png)
+![Final State of the Puzzle](FinalState.png)
+
+
